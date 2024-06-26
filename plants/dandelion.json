@@ -1,0 +1,10 @@
+{
+    "name": "Dandelion",
+    "description": "Dandelions are flowering plants in the Taraxacum genus, known for their bright yellow flowers and deeply notched leaves. They are edible and have various medicinal properties.",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/4f/DandelionFlower.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4f/DandelionFlower.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4f/DandelionFlower.jpg"
+    ],
+    "tags": ["Edible", "Medicinal", "Wildflower"]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Chicory",
+    "description": "Chicory (Cichorium intybus) is a hardy perennial with blue, lavender, or occasionally white flowers. The roots can be used as a coffee substitute, and the leaves are edible in salads.",
+    "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/4f/DandelionFlower.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4f/DandelionFlower.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/4f/DandelionFlower.jpg"
+    ],
+    "tags": ["Edible", "Coffee Substitute", "Wildflower"]
+}
